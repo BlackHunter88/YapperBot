@@ -1,1 +1,1 @@
-# YapperBot
+# [BETA]YapperBot
